@@ -1,0 +1,83 @@
+[
+  {
+    "Address__c": "345 Boyer Ave",
+    "City__c": "Walla Walla",
+    "Name__c": "Whitman College",
+    "Phone_Number__c": "(509) 527-5111",
+    "States__c": "WA",
+    "Zip__c": "99362",
+    "Email__c": "WhitmanCollege@gmail.com"
+  },
+    {
+    "Address__c": "140 Commonwealth Avenue",
+    "City__c": "Chestnut Hill",
+    "Name__c": "Boston College",
+    "Phone_Number__c": "(617) 552-8000",
+    "States__c": "MA",
+    "Zip__c": "02467",
+    "Email__c": "BostonCollege@gmail.com"
+  },
+    {
+    "Address__c": "116 Street Station",
+    "City__c": "New York",
+    "Name__c": "Columbia University",
+    "Phone_Number__c": "(212) 854-1754",
+    "States__c": "NY",
+    "Zip__c": "10027",
+    "Email__c": "Columbia@gmail.com"
+  },
+    {
+    "Address__c": "500 El Camino Real",
+    "City__c": "Santa Clara",
+    "Name__c": "Santa Clara University",
+    "Phone_Number__c": "(408) 554-4000",
+    "States__c": "CA",
+    "Zip__c": "95053",
+    "Email__c": "SCU@gmail.com"
+  },
+    {
+    "Address__c": "901 West Illinois Street",
+    "City__c": "Champaign",
+    "Name__c": "University of Illinois",
+    "Phone_Number__c": "(217) 333-1000",
+    "States__c": "IL",
+    "Zip__c": "61801",
+    "Email__c": "UIUC@gmail.com"
+  },
+    {
+    "Address__c": "1250 W Wisconsin Ave",
+    "City__c": "Milwaukee",
+    "Name__c": "Marquette University",
+    "Phone_Number__c": "(800) 222-6544",
+    "States__c": "WI",
+    "Zip__c": "53233",
+    "Email__c": "Marquette@gmail.com"
+  },
+    {
+    "Address__c": "1 Shields Ave",
+    "City__c": "Davis",
+    "Name__c": "University of California, Davis",
+    "Phone_Number__c": "(617) 628-5000",
+    "States__c": "CA",
+    "Zip__c": "95616",
+    "Email__c": "UCDavis@gmail.com"
+  },
+    {
+    "Address__c": "869 Buchser way",
+    "City__c": "Gainesville",
+    "Name__c": "University of Florida",
+    "Phone_Number__c": "(352) 392-3261",
+    "States__c": "FL",
+    "Zip__c": "32611",
+    "Email__c": "UniversityOfFlorida@gmail.com"
+  },
+    {
+    "Address__c": "20651 Henwood rd",
+    "City__c": "Provo",
+    "Name__c": "Brigham Young University",
+    "Phone_Number__c": "(801) 422-4636",
+    "States__c": "UT",
+    "Zip__c": "84602",
+    "Email__c": "BYU@gmail.com"
+  }
+]
